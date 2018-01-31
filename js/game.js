@@ -4,11 +4,11 @@ var cPerSec = 0;
 var amountPerClick = 1;
 
 //Upgrade Variables
-var cursorEffect = 0.1;
+var cursorEffect = 1;
 var cursorCount = 0;
 var cursorCost = 15;
 
-var grandmaEffect = 1;
+var grandmaEffect = 3;
 var grandmaCount = 0;
 var grandmaCost = 100;
 
